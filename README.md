@@ -1,4 +1,4 @@
-# SVG Splash Feature Requests
+# SVG Splash Feature Requests 🚀
 
 This repository is used to track [SVG Splash](https://svgsplash.com) feature requests and discussions. Click [here](https://github.com/alexgurr/svgsplash/issues/new?template=feature_request.md) to open a new feature request.
 
