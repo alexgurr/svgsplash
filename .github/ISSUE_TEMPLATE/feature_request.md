@@ -1,6 +1,6 @@
 ---
-Name: Feature Request
-About: "For feature requests. Please search for existing issues first."
+name: Feature Request
+about: "For feature requests. Please search for existing issues first."
 ---
 
 **Please Describe The Problem To Be Solved**
